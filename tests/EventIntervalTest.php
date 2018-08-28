@@ -5,6 +5,8 @@ namespace Roomify\Bat\Test;
 use Roomify\Bat\Event\EventInterval;
 
 j00005fake_webhook_calls.class.php
+booking_added 
+	
 	
 class EventIntervalTest extends \PHPUnit_Framework_TestCase {
 
