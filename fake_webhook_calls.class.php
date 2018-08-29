@@ -1,0 +1,10 @@
+$property_uid = 1;
+$contract_uid = 4;
+$incorrect_property_uid = 99999999;
+$black_booking_id = 43;
+$deleted_black_booking = 1000;
+$cancelled_booking = 37;
+$note_id = 46;
+$deleted_note_id = 99999999;
+$depositref = 'xyz123';
+$extras_uid =2;
