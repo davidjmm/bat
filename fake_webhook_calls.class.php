@@ -7,4 +7,4 @@ $cancelled_booking = 37;
 $note_id = 46;
 $deleted_note_id = 99999999;
 $depositref = 'xyz123';
-$extras_uid =2;
+$extras_uid = 4;
